@@ -13,9 +13,10 @@ __plugin_meta__ = PluginMetadata(
     插件会根据配置的概率随机触发疾病，并通过Prompt影响AI的回复语气。
     支持多种疾病类型，每种疾病有不同的症状描述和持续时间。
     """,
-    author="MoFox_Bot开发者",
+    author="bingyv92",
     version="1.0.0",
     license="MIT",
     keywords=["生病", "健康", "状态", "Prompt", "语气"],
     categories=["娱乐", "功能"],
+    repository_url="https://github.com/bingyv92/small_diseaes",
 )
